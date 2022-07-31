@@ -2,3 +2,4 @@
 Můj kurz Git/ GitHub od základů
 
 A toto je také text1
+A text2
