@@ -21,9 +21,10 @@ xcode-select --install
 Nastav jméno a heslo (pokud používáš Github, _použij github údaje_).
 
 tohle je **text3**
-a text4
+a **text4**
 
 * toto
 * jsou
 * odrážky 
 * v seznamu
+
